@@ -1,6 +1,6 @@
 # youtube_player
 
-A new Flutter application.
+Playing with the Youtube Video player API
 
 ## Getting Started
 
