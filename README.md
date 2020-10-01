@@ -1,6 +1,6 @@
 # youtube_player
 
-Playing with the Youtube Video player API
+
 
 ## Getting Started
 
